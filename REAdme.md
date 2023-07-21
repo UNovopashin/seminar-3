@@ -1,11 +1,25 @@
-PS C:\Users\adminru\Downloads\Введение в контроль версий\09.07.2023 Введение в контроль версий (семинары)\Урок 3. Работа с удалёнными репозиториями\ДЗ> git clone https://github.com/killkuruzzza/git_lesson_3.git
-Cloning into 'git_lesson_3'...
-fatal: '$GIT_DIR' too big
+# Домашняя работа
 
-123456
-    kjhgfd
-        mnsdfg
+## Список команд из урока 1
 
-    sd
+*    git config --global user.name - задаём своё имя.
 
-dhsrtyhmn
+*    git config --global user.email - задаём свою эл.почту.
+
+*    git init - производим инициализацию репозитория.
+
+*    git add . - добавляем файл к следующему коммиту.
+
+*    git commit -m "коментарий" - создание коммита.
+
+*    git diff - команда просмотра изменений.
+
+*    git checkout <код нужной версии> - производим откат к нужной версии коммита
+
+*    git log - выводим коммиты от текущего к самой первой версии.
+
+*    git checkout master - переключение на ветку "master".
+
+*    git --version - вывод версии git на экран.
+
+*    git status - вывод изменений.
